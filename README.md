@@ -68,12 +68,12 @@ System AIRSCA opiera się na innowacyjnej koncepcji modułowych wież przetwarza
 
 ### Moduły zasilania
 
-1. **PowerCore Base** - podstawowy moduł zasilający (3000Wh)
+1. **PowerCore Base** - podstawowy moduł zasilający (500Wh)
    * Autonomia pracy: do 48h
    * Opcja zasilania solarnego
    * Inteligentny system zarządzania energią
 
-2. **PowerCore Extended** - rozszerzony moduł zasilający (6000Wh)
+2. **PowerCore Extended** - rozszerzony moduł zasilający (1000Wh)
    * Możliwość łączenia szeregowego z innymi modułami
    * System szybkiego ładowania
    * Kontrola poprzez aplikację mobilną
